@@ -1,0 +1,5 @@
+{
+  "name": "QuantOS",
+  "description": "An AI-powered quantitative trading platform POC for strategy development, backtesting, and risk analysis.",
+  "requestFramePermissions": []
+}
